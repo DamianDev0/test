@@ -1,0 +1,40 @@
+{
+  "visits": [
+    {
+      "id": "2c5e",
+      "username": "alejandro",
+      "email": "alejandro@gmail.com",
+      "birthday_date": "2024-06-03",
+      "password": "1234567",
+      "role_id": "1"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "username": "damian",
+      "email": "dg997678@gmail.com",
+      "password": "123456",
+      "role_id": 2
+    }
+  ],
+  "flights": [
+    {
+      "id": "63e3",
+      "number": "2324",
+      "origin": "colombia",
+      "destination": "brazil",
+      "departure": "2024-05-27T03:03",
+      "arrival": "4420-03-03T03:03",
+      "capacity": "23"
+    }
+  ],
+  "booking": [
+    {
+      "id": "6334",
+      "fligthId": "63e3",
+      "userId": "2c5e",
+      "bookingDate": "2024-05-27T03:03"
+    }
+  ]
+}
